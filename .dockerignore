@@ -1,0 +1,15 @@
+
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+.git/
+.vs/
+.vscode/
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+TestResults/
+*.user
+*.suo
